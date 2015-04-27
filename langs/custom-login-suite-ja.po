@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Login Suite\n"
+"POT-Creation-Date: 2015-04-27 21:11+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ka2 <ka2@ka2.org>\n"
+"Language-Team: Mnaural Sound <http://ka2.org>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../custom-login-suite\n"
+
+#: ../../custom-login-suite/functions.php:24
+#, php-format
+msgid "Error locating %s for inclusion"
+msgstr "インクルードパス「%s」のエラー"
+
+#: ../../custom-login-suite/lib/admin.php:79
+#: ../../custom-login-suite/lib/admin.php:80
+msgid "Custom Login Suite Options"
+msgstr "カスタムログイン設定"
+
+#: ../../custom-login-suite/lib/admin.php:171
+msgid "Settings"
+msgstr "設定"
+
+#: ../../custom-login-suite/lib/admin.php:179
+msgid "Edit"
+msgstr "編集"
+
+#: ../../custom-login-suite/lib/common.php:52
+#: ../../custom-login-suite/lib/common.php:63
+#: ../../custom-login-suite/lib/common.php:81
+#, php-format
+msgid "Function called: %s; %s"
+msgstr "呼び出された関数: %s; %s"
+
+#: ../../custom-login-suite/lib/common.php:52
+msgid "Custom Login Suite plugin has activated."
+msgstr "「カスタムログインスイート」プラグインが有効化されました。"
+
+#: ../../custom-login-suite/lib/common.php:63
+msgid "Custom Login Suite plugin has been deactivation."
+msgstr "「カスタムログインスイート」プラグインが停止されました。"
+
+#: ../../custom-login-suite/lib/common.php:81
+msgid "Custom Login Suite plugin uninstall now."
+msgstr "「カスタムログインスイート」プラグインを削除します。"
+
+#: ../../custom-login-suite/lib/core.php:120
+#, php-format
+msgid ""
+"Your server is running PHP version %s but this plugin requires at least PHP "
+"%s. Please run an upgrade."
+msgstr ""
+"サーバのPHPバージョンが %s です。このプラグインの実行にはPHPバージョン %s 以"
+"上が必要です。アップグレードを実行してください。"
+
+#: ../../custom-login-suite/lib/core.php:124
+#, php-format
+msgid "Please install the extension %s to run this plugin."
+msgstr ""
+"このプラグインの実行には%sエクステンションが必要です。インストールしてくださ"
+"い。"
+
+#: ../../custom-login-suite/lib/core.php:136
+#, php-format
+msgid "The %s has been deactivated."
+msgstr "%sは無効化されました。"
+
+#: ../../custom-login-suite/lib/core.php:136
+#: ../../custom-login-suite/outer_defined_translations.php:4
+msgid "Custom Login Suite"
+msgstr "カスタムログインスイート"
+
+#: ../../custom-login-suite/lib/core.php:170
+msgid "Failed to logging."
+msgstr "ログ出力に失敗しました。"
+
+#: ../../custom-login-suite/outer_defined_translations.php:5
+msgid "http://ka2.org/"
+msgstr "http://ka2.org/"
+
+#: ../../custom-login-suite/outer_defined_translations.php:6
+msgid "ka2"
+msgstr "ka2"
+
+#: ../../custom-login-suite/outer_defined_translations.php:7
+msgid ""
+"For all the people that want to thoroughly customize around WordPress login."
+msgstr "WordPressのログイン周りを徹底的にカスタマイズしたいすべての人へ。"
+
+#: ../../custom-login-suite/outer_defined_translations.php:8
+msgid ""
+"Custom Login Suite, you can be thoroughly customize the behavior of around "
+"login of WordPress."
+msgstr ""
+"「カスタムログインスイート」では、WordPressのログイン周りの挙動を徹底的にカス"
+"タマイズすることができます。"
+
+#: ../../custom-login-suite/outer_defined_translations.php:9
+msgid ""
+"For example, you can login at the another URL that is not \"wp-login.php\", "
+"you can add your own items to the user registration, you can incorporate the "
+"CAPTCHA authentication during password reset, and of course you can easy "
+"change the design of login screen."
+msgstr ""
+"例えば、「wp-login.php」ではない別のURLでログインできたり、ユーザー登録に独自"
+"の項目を追加できたり、パスワードリセット時にCAPTCHA認証を組み込んだり、もちろ"
+"ん、ログイン画面のデザイン変更も簡単に行えます。"
+
+#: ../../custom-login-suite/outer_defined_translations.php:10
+msgid ""
+"[Please visit here for more description of the plugin](http://ka2.org/)."
+msgstr "[プラグイン詳細はこちら](http://ka2.org)もご参照ください。"
+
+#~ msgid "NASmiru General Options"
+#~ msgstr "NASみる サイト一般設定"
+
+#~ msgid "NASmiru"
+#~ msgstr "NASみる"
+
+#~ msgid "NASmiru User Management"
+#~ msgstr "NASみる ユーザー管理"
+
+#~ msgid "User Management"
+#~ msgstr "ユーザー管理"
+
+#~ msgid "NASmiru Location Management"
+#~ msgstr "NASみる 設置先管理"
+
+#~ msgid "Location Management"
+#~ msgstr "設置先管理"
+
+#~ msgid "NASmiru NAS Management"
+#~ msgstr "NASみる NAS機器管理"
+
+#~ msgid "NAS Management"
+#~ msgstr "NAS機器管理"
+
+#~ msgid "NAS Administrators Master"
+#~ msgstr "NAS管理者マスタ"
+
+#~ msgid "NAS Location Groups Master"
+#~ msgstr "NAS設置先グループマスタ"
+
+#~ msgid "NAS Management Master"
+#~ msgstr "NAS機器管理マスタ"
+
+#~ msgid "NAS Location Group Relationships"
+#~ msgstr "NAS設置先グループ連携管理"
+
+#~ msgid "New user registration on your site %s:"
+#~ msgstr "「 %s 」に新規ユーザーが登録されました:"
+
+#~ msgid "Username: %s"
+#~ msgstr "ユーザー名: %s"
+
+#~ msgid "E-mail: %s"
+#~ msgstr "メールアドレス: %s"
+
+#~ msgid "[%s] New User Registration"
+#~ msgstr "[%s] 新規ユーザー登録"
+
+#~ msgid ""
+#~ "Dear USERNAME,\n"
+#~ "\n"
+#~ "Your new account for SITE_NAME has been successfully set up at:\n"
+#~ "SITE_URL\n"
+#~ "\n"
+#~ "You can log in to the account with the following information:\n"
+#~ "\n"
+#~ "Username: USERNAME\n"
+#~ "Password: PASSWORD\n"
+#~ "Log in here: LOGINLINK\n"
+#~ "\n"
+#~ "If you have any problems, please contact us at SUPPORT_URL.\n"
+#~ "\n"
+#~ "--The Support Team @ SITE_NAME"
+#~ msgstr ""
+#~ "USERNAME 様へ\n"
+#~ "\n"
+#~ "SITE_NAME( SITE_URL )の新しいアカウントを作成いたしました。\n"
+#~ "\n"
+#~ "以下の情報にてログインしてください。\n"
+#~ "\n"
+#~ "ユーザー名: USERNAME\n"
+#~ "パスワード: PASSWORD\n"
+#~ "\n"
+#~ "ログインURL: LOGINLINK\n"
+#~ "\n"
+#~ "もしも何かしら問題がありましたらこちらまでお問い合わせください: "
+#~ "SUPPORT_URL\n"
+#~ "\n"
+#~ "このメール通知にお心当たりがない場合、メールを無視していただくか破棄してい"
+#~ "ただければ幸いです。\n"
+#~ "\n"
+#~ "-- SITE_NAME サポート"
+
+#~ msgid "[%s] Notification of your new account"
+#~ msgstr "[%s] 新しいアカウントのお知らせ"
+
+#~ msgid ""
+#~ "The data in the relationship table could not be deleted. Please check the "
+#~ "that table."
+#~ msgstr ""
+#~ "連携テーブルのデータが削除できませんでした。該当テーブルをご確認ください。"
+
+#~ msgid "NASmiru General Settings"
+#~ msgstr "NASみる 一般設定"
+
+#~ msgid "The \"NASmiru\" is ..."
+#~ msgstr "「NASみる」とは…"
+
+#~ msgid "NASmiru NAS Location Groups Management"
+#~ msgstr "NASみる 設置先グループ管理"
+
+#~ msgid "Locations List"
+#~ msgstr "設置先一覧"
+
+#~ msgid "Location Register"
+#~ msgstr "設置先登録"
+
+#~ msgid "Edit Locations"
+#~ msgstr "設置先編集"
+
+#~ msgid "NASmiru NAS Location Groups List"
+#~ msgstr "NASみる 設置先グループ一覧"
+
+#~ msgid "NASmiru NAS Location Groups Register"
+#~ msgstr "NASみる 設置先グループ登録"
+
+#~ msgid "NASmiru Edit NAS Location Groups"
+#~ msgstr "NASみる NAS設置先グループ編集"
+
+#~ msgid "NASmiru NAS Location Group Infomation"
+#~ msgstr "NASみる 設置先グループ詳細"
+
+#~ msgid "NASmiru Plugin Options"
+#~ msgstr "NASみる プラグイン設定"
+
+#~ msgid "NAS List"
+#~ msgstr "NAS機器一覧"
+
+#~ msgid "NAS Register"
+#~ msgstr "NAS機器登録"
+
+#~ msgid "NASmiru NAS Devices List"
+#~ msgstr "NASみる NAS機器一覧"
+
+#~ msgid "NASmiru NAS Devices Register"
+#~ msgstr "NASみる NAS機器登録"
+
+#~ msgid "NASmiru Edit NAS Devices"
+#~ msgstr "NASみる NAS機器編集"
+
+#~ msgid "NASmiru NAS Device Infomation"
+#~ msgstr "NASみる NAS機器詳細"
+
+#~ msgid "Registered Users"
+#~ msgstr "登録ユーザー"
+
+#~ msgid "User Register"
+#~ msgstr "ユーザー登録"
+
+#~ msgid "Edit Users"
+#~ msgstr "ユーザー編集"
+
+#~ msgid "NASmiru Registed Users List"
+#~ msgstr "NASみる 登録ユーザー一覧"
+
+#~ msgid "NASmiru Users Register"
+#~ msgstr "NASみる ユーザー登録"
+
+#~ msgid "NASmiru Edit Users"
+#~ msgstr "NASみる ユーザー編集"
+
+#~ msgid "NASmiru User Infomation"
+#~ msgstr "NASみる ユーザー情報"
+
+#~ msgid "NASmiru Plugin"
+#~ msgstr "NASみる プラグイン"
+
+#~ msgid "This plugin is for NASmiru only."
+#~ msgstr "このプラグインは「NASみる」専用です。"
+
+#~ msgid "Katsuhiko Maeno @ ISAO Corporation"
+#~ msgstr "&copy; ISAO"
+
+#~ msgid "About NASmiru"
+#~ msgstr "「NASみる」について"
+
+#~ msgid "NASmiru About"
+#~ msgstr "NASみるについて"
+
+#~ msgid "NASmiru Options: "
+#~ msgstr "NASみる 設定："
